@@ -14,20 +14,20 @@ body, html {
 }
 
 .header {
-    background-image: url('header-background.jpg');
-    color: white;
+    background-image: url('background.jpeg');
+    color: black;
     text-align: center;
 }
 
 .video-section {
-    background-image: url('video-background.jpg');
-    color: white;
+    background-image: url('background.jpeg');
+    color: black;
     text-align: center;
 }
 
 .link-section {
-    background-image: url('link-background.jpg');
-    color: white;
+    background-image: url('background.jpeg');
+    color: black;
     text-align: center;
 }
 
